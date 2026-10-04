@@ -1,121 +1,405 @@
 [
   {
-    "id": "dr-ahmed-el-mansouri",
-    "name": "Dr. Ahmed El Mansouri",
-    "specialty": "Cardiologue",
-    "specialtyAr": "طبيب قلب",
-    "phone": "+212 6 61 23 45 67",
+    "id": "dr-fatiha-el-ghaddouri",
+    "name": "Dr. Fatiha El Ghaddouri",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيبة عامة",
+    "phone": "+212539983779",
     "city": "Al Hoceima",
-    "address": "12 Avenue Mohammed V, Al Hoceima",
-    "clinic": "Clinique Al Amal",
-    "description": "Cardiologue avec plus de 15 ans d'expérience. Spécialisé dans le diagnostic et le traitement des maladies cardiovasculaires.",
-    "descriptionAr": "طبيب قلب بخبرة تفوق 15 سنة. متخصص في تشخيص وعلاج أمراض القلب والأوعية الدموية.",
-    "openingHours": "Lun–Ven : 9h–17h"
+    "address": "44 Rue Al Mourabitine"
   },
   {
-    "id": "dr-fatima-zahra-bennani",
-    "name": "Dr. Fatima Zahra Bennani",
-    "specialty": "Pédiatre",
-    "specialtyAr": "طبيبة أطفال",
-    "phone": "+212 6 62 34 56 78",
-    "city": "Casablanca",
-    "address": "45 Boulevard Zerktouni, Casablanca",
-    "clinic": "Cabinet pédiatrique Zerktouni",
-    "description": "Pédiatre dévouée, prend en charge les nourrissons, enfants et adolescents.",
-    "descriptionAr": "طبيبة أطفال مخلصة، تتكفل بالرضع والأطفال والمراهقين.",
-    "openingHours": "Lun–Sam : 8h30–18h"
+    "id": "dr-ihssan-el-kamouni",
+    "name": "Dr. Ihssan El Kamouni",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيبة عامة",
+    "phone": "+212539985333",
+    "city": "Al Hoceima",
+    "address": "10 Avenue Mohamed V"
   },
   {
-    "id": "dr-youssef-alaoui",
-    "name": "Dr. Youssef Alaoui",
-    "specialty": "Dermatologue",
-    "specialtyAr": "طبيب جلدية",
-    "phone": "+212 6 63 45 67 89",
-    "city": "Rabat",
-    "clinic": "Clinique Ibn Sina",
-    "description": "Dermatologue esthétique et médicale."
-  },
-  {
-    "id": "dr-salma-idrissi",
-    "name": "Dr. Salma Idrissi",
-    "specialty": "Gynécologue",
-    "specialtyAr": "طبيبة أمراض نساء",
-    "phone": "+212 6 64 56 78 90",
-    "city": "Marrakech",
-    "address": "Rue Ibn Aicha, Gueliz, Marrakech",
-    "openingHours": "Lun–Ven : 10h–19h"
-  },
-  {
-    "id": "dr-omar-tazi",
-    "name": "Dr. Omar Tazi",
-    "specialty": "Dentiste",
-    "specialtyAr": "طبيب أسنان",
-    "phone": "+212 6 65 67 89 01",
-    "city": "Tanger",
-    "address": "23 Rue de la Liberté, Tanger",
-    "clinic": "Cabinet dentaire Tazi"
-  },
-  {
-    "id": "dr-khadija-el-fassi",
-    "name": "Dr. Khadija El Fassi",
-    "specialty": "Ophtalmologue",
-    "specialtyAr": "طبيبة عيون",
-    "phone": "+212 6 66 78 90 12",
-    "city": "Fès",
-    "clinic": "Clinique Atlas"
-  },
-  {
-    "id": "dr-mehdi-berrada",
-    "name": "Dr. Mehdi Berrada",
-    "specialty": "ORL",
-    "specialtyAr": "طبيب أنف وأذن وحنجرة",
-    "phone": "+212 6 67 89 01 23",
-    "city": "Agadir",
-    "address": "Avenue Hassan II, Agadir"
-  },
-  {
-    "id": "dr-nadia-chraibi",
-    "name": "Dr. Nadia Chraibi",
+    "id": "dr-mohamed-rachid-alami",
+    "name": "Dr. Mohamed Rachid Alami",
     "specialty": "Médecin généraliste",
     "specialtyAr": "طبيب عام",
-    "phone": "+212 6 68 90 12 34",
-    "city": "Nador",
-    "clinic": "Centre médical Nador",
-    "openingHours": "Lun–Sam : 9h–20h"
+    "phone": "+212539984822",
+    "city": "Al Hoceima",
+    "address": "94 bis Avenue Mohamed V"
   },
   {
-    "id": "dr-hicham-benjelloun",
-    "name": "Dr. Hicham Benjelloun",
-    "specialty": "Neurologue",
-    "specialtyAr": "طبيب أعصاب",
-    "phone": "+212 6 69 01 23 45",
-    "city": "Casablanca",
-    "clinic": "Hôpital Cheikh Khalifa"
+    "id": "dr-jihad-toufiq",
+    "name": "Dr. Jihad Toufiq",
+    "specialty": "Médecine esthétique",
+    "specialtyAr": "الطب التجميلي",
+    "phone": "+212643594302",
+    "city": "Al Hoceima",
+    "address": "26 Avenue Mohamed V"
   },
   {
-    "id": "dr-laila-sebti",
-    "name": "Dr. Laila Sebti",
-    "specialty": "Psychiatre",
-    "specialtyAr": "طبيبة نفسية",
-    "phone": "+212 6 70 12 34 56",
-    "city": "Rabat",
-    "description": "Psychiatre spécialisée dans la prise en charge des adultes."
+    "id": "dr-youssef-amrani",
+    "name": "Dr. Youssef Amrani",
+    "specialty": "Chirurgien-dentiste",
+    "specialtyAr": "طبيب جراحة الأسنان",
+    "phone": "+212539980911",
+    "city": "Al Hoceima",
+    "address": "83, angle Rue Mbarek et Rue Algérie, El Bakay"
   },
   {
-    "id": "dr-rachid-amrani",
-    "name": "Dr. Rachid Amrani",
-    "specialty": "Orthopédiste",
-    "specialtyAr": "طبيب عظام",
-    "phone": "+212 6 71 23 45 67",
-    "city": "Meknès",
-    "clinic": "Clinique Moulay Ismail"
+    "id": "dr-najib-el-farricha",
+    "name": "Dr. Najib El Farricha",
+    "specialty": "Oto-rhino-laryngologiste",
+    "specialtyAr": "طبيب الأنف والأذن والحنجرة",
+    "phone": "+212539984908",
+    "city": "Al Hoceima",
+    "address": "10 Boulevard Abdelkrim Khattabi"
   },
   {
-    "id": "dr-sanae-berrada",
-    "name": "Dr. Sanae Berrada",
+    "id": "dr-mohamed-talhaoui",
+    "name": "Dr. Mohamed Talhaoui",
+    "specialty": "Pneumo-phtisiologie",
+    "specialtyAr": "أمراض الرئة والسل",
+    "phone": "+212539982042",
+    "city": "Al Hoceima",
+    "clinic": "Hôpital Mohamed V"
+  },
+  {
+    "id": "dr-abdelmalik-el-yandouzi",
+    "name": "Dr. Abdelmalik El Yandouzi",
+    "specialty": "Cardiologue",
+    "specialtyAr": "طبيب القلب",
+    "phone": "+212539985558",
+    "city": "Al Hoceima",
+    "address": "Rue Salah Eddine Al Ayoubi"
+  },
+  {
+    "id": "dr-khalid-amarou",
+    "name": "Dr. Khalid Amarou",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539804466",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-jamila-raji",
+    "name": "Dr. Jamila Raji",
+    "specialty": "Gynécologue",
+    "specialtyAr": "طبيبة أمراض النساء",
+    "phone": "+212539983777",
+    "city": "Al Hoceima",
+    "address": "Boulevard Mohamed V, Passage"
+  },
+  {
+    "id": "dr-said-bahaka",
+    "name": "Dr. Said Bahaka",
+    "specialty": "Ophtalmologue",
+    "specialtyAr": "طبيب العيون",
+    "phone": "+212539984800",
+    "city": "Al Hoceima",
+    "address": "Avenue Mohamed V, Passage"
+  },
+  {
+    "id": "dr-jamila-el-houdazi",
+    "name": "Dr. Jamila El Houdazi",
     "specialty": "Pédiatre",
     "specialtyAr": "طبيبة أطفال",
-    "phone": "+212 6 72 34 56 78",
-    "city": "Tétouan"
+    "phone": "+212539982042",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-abdellatif-chaara",
+    "name": "Dr. Abdellatif Chaara",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539813698",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-naziha-admi",
+    "name": "Dr. Naziha Admi",
+    "specialty": "Gynécologue",
+    "specialtyAr": "طبيبة أمراض النساء",
+    "phone": "+212539984777",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-mustapha-al-karimi",
+    "name": "Dr. Mustapha Al Karimi",
+    "specialty": "Chirurgien général",
+    "specialtyAr": "جراح عام",
+    "phone": "+212539841180",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-ahmed-bennani",
+    "name": "Dr. Ahmed Bennani",
+    "specialty": "Ophtalmologue",
+    "specialtyAr": "طبيب العيون",
+    "phone": "+212539980005",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-mohamed-el-wahabi",
+    "name": "Dr. Mohamed El Wahabi",
+    "specialty": "Pédiatre",
+    "specialtyAr": "طبيب أطفال",
+    "phone": "+212539841555",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-mohamed-dira",
+    "name": "Dr. Mohamed Dira",
+    "specialty": "Cardiologue",
+    "specialtyAr": "طبيب القلب",
+    "phone": "+212661214341",
+    "city": "Al Hoceima",
+    "address": "27 Avenue Abdelkrim Khattabi"
+  },
+  {
+    "id": "dr-mekki-el-hankouri",
+    "name": "Dr. Mekki El Hankouri",
+    "specialty": "Gynécologue",
+    "specialtyAr": "طبيب أمراض النساء",
+    "phone": "+212539840687",
+    "city": "Al Hoceima",
+    "address": "Lotissement Boujibar"
+  },
+  {
+    "id": "dr-ahmed-elouardani",
+    "name": "Dr. Ahmed Elouardani",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539984898",
+    "city": "Al Hoceima",
+    "address": "97 Boulevard Mohamed V"
+  },
+  {
+    "id": "dr-rachid-aouragh",
+    "name": "Dr. Rachid Aouragh",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539982042",
+    "city": "Al Hoceima",
+    "clinic": "Hôpital Mohamed V"
+  },
+  {
+    "id": "dr-abdelali-sami",
+    "name": "Dr. Abdelali Sami",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539804179",
+    "city": "Beni Bouayach",
+    "address": "El Hay II"
+  },
+  {
+    "id": "dr-karima-rachdi",
+    "name": "Dr. Karima Rachdi",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيبة عامة",
+    "phone": "+212661076560",
+    "city": "Al Hoceima",
+    "clinic": "Centre de santé Bir"
+  },
+  {
+    "id": "dr-zouhair-mohsini",
+    "name": "Dr. Zouhair Mohsini",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539808532",
+    "city": "Al Hoceima",
+    "address": "Lotissement Al Wahda, Issaguen"
+  },
+  {
+    "id": "dr-salah-azizi",
+    "name": "Dr. Salah Azizi",
+    "specialty": "Oto-rhino-laryngologiste",
+    "specialtyAr": "طبيب الأنف والأذن والحنجرة",
+    "phone": "+212539982344",
+    "city": "Al Hoceima",
+    "address": "93 Rue Salah Eddine Ayoubi"
+  },
+  {
+    "id": "dr-abdeslam-taiba",
+    "name": "Dr. Abdeslam Taiba",
+    "specialty": "Dermatologue",
+    "specialtyAr": "طبيب الأمراض الجلدية",
+    "phone": "+212539840940",
+    "city": "Al Hoceima",
+    "address": "Avenue Mohamed V, Passage"
+  },
+  {
+    "id": "dr-abdeladim-chaquibi",
+    "name": "Dr. Abdeladim Chaquibi",
+    "specialty": "Chirurgien général",
+    "specialtyAr": "جراح عام",
+    "phone": "+212661470350",
+    "city": "Al Hoceima",
+    "clinic": "Clinique Bades"
+  },
+  {
+    "id": "dr-ahmed-fethi",
+    "name": "Dr. Ahmed Fethi",
+    "specialty": "Urologue",
+    "specialtyAr": "طبيب المسالك البولية",
+    "phone": "+212539982042",
+    "city": "Al Hoceima",
+    "clinic": "Hôpital Mohamed V"
+  },
+  {
+    "id": "dr-mohamed-benkadour",
+    "name": "Dr. Mohamed Benkadour",
+    "specialty": "Gynécologue-obstétricien",
+    "specialtyAr": "طبيب أمراض النساء والتوليد",
+    "phone": "+212539982258",
+    "city": "Al Hoceima",
+    "address": "7 Rue Abdellah Hamou"
+  },
+  {
+    "id": "dr-rachid-rifai",
+    "name": "Dr. Rachid Rifai",
+    "specialty": "Traumatologue-orthopédiste",
+    "specialtyAr": "طبيب جراحة العظام والكسور",
+    "phone": "+212539982042",
+    "city": "Al Hoceima",
+    "clinic": "Hôpital Mohamed V"
+  },
+  {
+    "id": "dr-abdelkarim-aababou",
+    "name": "Dr. Abdelkarim Aababou",
+    "specialty": "Médecine interne",
+    "specialtyAr": "الطب الباطني",
+    "phone": "+212539982042",
+    "city": "Al Hoceima",
+    "clinic": "Hôpital Mohamed V"
+  },
+  {
+    "id": "dr-abid-akodad",
+    "name": "Dr. Abid Akodad",
+    "specialty": "Oncologue médical",
+    "specialtyAr": "طبيب الأورام",
+    "phone": "+212539982042",
+    "city": "Al Hoceima",
+    "clinic": "Hôpital Mohamed V"
+  },
+  {
+    "id": "dr-mustapha-mezahi",
+    "name": "Dr. Mustapha Mezahi",
+    "specialty": "Oto-rhino-laryngologiste",
+    "specialtyAr": "طبيب الأنف والأذن والحنجرة",
+    "phone": "+212539982042",
+    "city": "Al Hoceima",
+    "clinic": "Hôpital Mohamed V"
+  },
+  {
+    "id": "dr-saeid-talhaoui",
+    "name": "Dr. Saeyd Talhaoui",
+    "specialty": "Psychiatre",
+    "specialtyAr": "طبيب نفسي",
+    "phone": "+212539982042",
+    "city": "Al Hoceima",
+    "clinic": "Hôpital Mohamed V"
+  },
+  {
+    "id": "dr-errai-mohamed",
+    "name": "Dr. Errai Mohamed",
+    "specialty": "Ophtalmologue",
+    "specialtyAr": "طبيب العيون",
+    "phone": "+212539980318",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-benazrak-ahmidou",
+    "name": "Dr. Benazrak Ahmidou",
+    "specialty": "Chirurgien-dentiste",
+    "specialtyAr": "طبيب جراحة الأسنان",
+    "phone": "+212539984912",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-ben-ramadan-redouan",
+    "name": "Dr. Ben Ramadan Redouan",
+    "specialty": "Chirurgien-dentiste",
+    "specialtyAr": "طبيب جراحة الأسنان",
+    "phone": "+212539841616",
+    "city": "Al Hoceima"
+  },
+  {
+    "id": "dr-roky-wafaa",
+    "name": "Dr. Roky Wafaa",
+    "specialty": "Chirurgien-dentiste",
+    "specialtyAr": "طبيب جراحة الأسنان",
+    "phone": "+212539981122",
+    "city": "Al Hoceima",
+    "address": "Quartier Commercial, Rue Moulay Ismail"
+  },
+  {
+    "id": "dr-manar-zarrouk",
+    "name": "Dr. Manal Zarrouk",
+    "specialty": "Chirurgien-dentiste",
+    "specialtyAr": "طبيبة جراحة الأسنان",
+    "phone": "+212539981653",
+    "city": "Al Hoceima",
+    "address": "138 Avenue Abdelkrim El Khattabi"
+  },
+  {
+    "id": "dr-najoua-el-younssi",
+    "name": "Dr. Najoua El Younssi",
+    "specialty": "Chirurgien-dentiste",
+    "specialtyAr": "طبيبة جراحة الأسنان",
+    "phone": "+212539983714",
+    "city": "Al Hoceima",
+    "address": "8 Avenue Al Mouahidine, Passage Soussan"
+  },
+  {
+    "id": "dr-mohamed-abdellaoui",
+    "name": "Dr. Mohamed Abdellaoui",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539805757",
+    "city": "Imzouren",
+    "address": "8 Rue Al Ouahda"
+  },
+  {
+    "id": "dr-ahmed-elbarakat",
+    "name": "Dr. Ahmed Elbarakat",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539805492",
+    "city": "Imzouren",
+    "address": "169 Rue Bir Anzarane"
+  },
+  {
+    "id": "dr-abdelkader-benamar",
+    "name": "Dr. Abdelkader Benamar",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539806047",
+    "city": "Imzouren",
+    "address": "113 Rue Tamassint"
+  },
+  {
+    "id": "dr-rachida-benhammadi",
+    "name": "Dr. Rachida Benhammadi",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيبة عامة",
+    "phone": "+212539807558",
+    "city": "Imzouren",
+    "address": "13 Rue Jbel Sagrou"
+  },
+  {
+    "id": "dr-mohamed-elmoussaoui",
+    "name": "Dr. Mohamed Elmoussaoui",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212539806082",
+    "city": "Imzouren",
+    "address": "14 Avenue Hassan II"
+  },
+  {
+    "id": "dr-bouchra-ben-fares",
+    "name": "Dr. Bouchra Ben Fares",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيبة عامة",
+    "phone": "+212539807272",
+    "city": "Imzouren"
   }
 ]
