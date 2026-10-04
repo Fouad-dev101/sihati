@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>Trouvez un médecin au Maroc — Annuaire médical</title>
+    <meta name="description" content="Annuaire des médecins au Maroc. Recherchez par spécialité, ville ou clinique et appelez directement." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Trouvez un médecin au Maroc" />
+    <meta property="og:description" content="Annuaire médical marocain. Recherchez et appelez directement." />
+    <meta property="og:locale" content="fr_MA" />
+    <meta property="og:locale:alternate" content="ar_MA" />
+    <script>
+      // Prevent FOUC when Arabic is remembered
+      (function () {
+        try {
+          var l = localStorage.getItem('lang');
+          if (l === 'ar') {
+            document.documentElement.lang = 'ar';
+            document.documentElement.dir = 'rtl';
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

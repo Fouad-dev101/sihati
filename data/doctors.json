@@ -1,0 +1,121 @@
+[
+  {
+    "id": "dr-ahmed-el-mansouri",
+    "name": "Dr. Ahmed El Mansouri",
+    "specialty": "Cardiologue",
+    "specialtyAr": "طبيب قلب",
+    "phone": "+212 6 61 23 45 67",
+    "city": "Al Hoceima",
+    "address": "12 Avenue Mohammed V, Al Hoceima",
+    "clinic": "Clinique Al Amal",
+    "description": "Cardiologue avec plus de 15 ans d'expérience. Spécialisé dans le diagnostic et le traitement des maladies cardiovasculaires.",
+    "descriptionAr": "طبيب قلب بخبرة تفوق 15 سنة. متخصص في تشخيص وعلاج أمراض القلب والأوعية الدموية.",
+    "openingHours": "Lun–Ven : 9h–17h"
+  },
+  {
+    "id": "dr-fatima-zahra-bennani",
+    "name": "Dr. Fatima Zahra Bennani",
+    "specialty": "Pédiatre",
+    "specialtyAr": "طبيبة أطفال",
+    "phone": "+212 6 62 34 56 78",
+    "city": "Casablanca",
+    "address": "45 Boulevard Zerktouni, Casablanca",
+    "clinic": "Cabinet pédiatrique Zerktouni",
+    "description": "Pédiatre dévouée, prend en charge les nourrissons, enfants et adolescents.",
+    "descriptionAr": "طبيبة أطفال مخلصة، تتكفل بالرضع والأطفال والمراهقين.",
+    "openingHours": "Lun–Sam : 8h30–18h"
+  },
+  {
+    "id": "dr-youssef-alaoui",
+    "name": "Dr. Youssef Alaoui",
+    "specialty": "Dermatologue",
+    "specialtyAr": "طبيب جلدية",
+    "phone": "+212 6 63 45 67 89",
+    "city": "Rabat",
+    "clinic": "Clinique Ibn Sina",
+    "description": "Dermatologue esthétique et médicale."
+  },
+  {
+    "id": "dr-salma-idrissi",
+    "name": "Dr. Salma Idrissi",
+    "specialty": "Gynécologue",
+    "specialtyAr": "طبيبة أمراض نساء",
+    "phone": "+212 6 64 56 78 90",
+    "city": "Marrakech",
+    "address": "Rue Ibn Aicha, Gueliz, Marrakech",
+    "openingHours": "Lun–Ven : 10h–19h"
+  },
+  {
+    "id": "dr-omar-tazi",
+    "name": "Dr. Omar Tazi",
+    "specialty": "Dentiste",
+    "specialtyAr": "طبيب أسنان",
+    "phone": "+212 6 65 67 89 01",
+    "city": "Tanger",
+    "address": "23 Rue de la Liberté, Tanger",
+    "clinic": "Cabinet dentaire Tazi"
+  },
+  {
+    "id": "dr-khadija-el-fassi",
+    "name": "Dr. Khadija El Fassi",
+    "specialty": "Ophtalmologue",
+    "specialtyAr": "طبيبة عيون",
+    "phone": "+212 6 66 78 90 12",
+    "city": "Fès",
+    "clinic": "Clinique Atlas"
+  },
+  {
+    "id": "dr-mehdi-berrada",
+    "name": "Dr. Mehdi Berrada",
+    "specialty": "ORL",
+    "specialtyAr": "طبيب أنف وأذن وحنجرة",
+    "phone": "+212 6 67 89 01 23",
+    "city": "Agadir",
+    "address": "Avenue Hassan II, Agadir"
+  },
+  {
+    "id": "dr-nadia-chraibi",
+    "name": "Dr. Nadia Chraibi",
+    "specialty": "Médecin généraliste",
+    "specialtyAr": "طبيب عام",
+    "phone": "+212 6 68 90 12 34",
+    "city": "Nador",
+    "clinic": "Centre médical Nador",
+    "openingHours": "Lun–Sam : 9h–20h"
+  },
+  {
+    "id": "dr-hicham-benjelloun",
+    "name": "Dr. Hicham Benjelloun",
+    "specialty": "Neurologue",
+    "specialtyAr": "طبيب أعصاب",
+    "phone": "+212 6 69 01 23 45",
+    "city": "Casablanca",
+    "clinic": "Hôpital Cheikh Khalifa"
+  },
+  {
+    "id": "dr-laila-sebti",
+    "name": "Dr. Laila Sebti",
+    "specialty": "Psychiatre",
+    "specialtyAr": "طبيبة نفسية",
+    "phone": "+212 6 70 12 34 56",
+    "city": "Rabat",
+    "description": "Psychiatre spécialisée dans la prise en charge des adultes."
+  },
+  {
+    "id": "dr-rachid-amrani",
+    "name": "Dr. Rachid Amrani",
+    "specialty": "Orthopédiste",
+    "specialtyAr": "طبيب عظام",
+    "phone": "+212 6 71 23 45 67",
+    "city": "Meknès",
+    "clinic": "Clinique Moulay Ismail"
+  },
+  {
+    "id": "dr-sanae-berrada",
+    "name": "Dr. Sanae Berrada",
+    "specialty": "Pédiatre",
+    "specialtyAr": "طبيبة أطفال",
+    "phone": "+212 6 72 34 56 78",
+    "city": "Tétouan"
+  }
+]
