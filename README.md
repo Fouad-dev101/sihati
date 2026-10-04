@@ -6,6 +6,18 @@
 
 ---
 
+## 📸 Aperçu
+
+| 🏠 Accueil (FR) | 👨‍⚕️ Annuaire |
+|---|---|
+| ![Page d'accueil Sihati](screenshots/home.png) | ![Annuaire des médecins](screenshots/doctors.png) |
+
+| ℹ️ À propos | 🌍 Version arabe (RTL) |
+|---|---|
+| ![À propos](screenshots/about.png) | ![Version arabe](screenshots/home-ar.png) |
+
+---
+
 ## 📖 Project
 
 Sihati helps Moroccan patients quickly find doctors by specialty, city, or clinic, and call them in one tap.
