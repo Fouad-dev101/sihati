@@ -98,7 +98,7 @@ export const fr = {
   contact: {
     title: 'Contact',
     body: 'Une question, une suggestion ou une correction ? Écrivez-nous.',
-    email: 'contact@dalilsehati.ma',
+    email: 'contactdalilsehati@gmail.com',
   },
   footer: {
     tagline: 'DalilSehati — Annuaire médical marocain, rapide, gratuit, bilingue.',

@@ -98,7 +98,7 @@ export const ar: Translations = {
   contact: {
     title: 'اتصل بنا',
     body: 'سؤال أو اقتراح أو تصحيح؟ راسلنا.',
-    email: 'contact@dalilsehati.ma',
+    email: 'contactdalilsehati@gmail.com',
   },
   footer: {
     tagline: 'دليل صحتي — دليل طبي مغربي، سريع، مجاني، ثنائي اللغة.',
