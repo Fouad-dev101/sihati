@@ -23,6 +23,18 @@
     "available247": true,
     "description": "Infirmier disponible 24h/24 pour urgences à domicile.",
     "descriptionAr": "ممرض متوفر 24 ساعة للطوارئ المنزلية."
+  },
+  {
+    "id": "inf-mouad-benmousa",
+    "name": "Mouad Benmousa",
+    "phone": "+212 6 88 44 22 08",
+    "city": "Al Hoceima",
+    "neighborhood": "Centre-ville",
+    "services": ["Injections", "Pansements", "Soins locales", "Perfusions"],
+    "servicesAr": ["حقن", "ضمادات", "رعاية", "محاليل"],
+    "available247": true,
+    "description": "Infirmier disponible 24h/24 pour urgences à domicile.",
+    "descriptionAr": "ممرض متوفر 24 ساعة للطوارئ المنزلية."
   }
   
 ]
