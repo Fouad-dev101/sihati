@@ -1,0 +1,28 @@
+[
+  {
+    "id": "inf-salma-bennani",
+    "name": "Salma Bennani",
+    "phone": "+212 6 61 23 45 67",
+    "city": "Al Hoceima",
+    "neighborhood": "Quartier Al Massira",
+    "services": ["Piqûres", "Pansements", "Perfusions"],
+    "servicesAr": ["حقن", "ضمادات", "محاليل"],
+    "available247": false,
+    "openingHours": "Lun–Sam : 8h–20h",
+    "description": "Infirmière à domicile avec 8 ans d'expérience.",
+    "descriptionAr": "ممرضة منزلية بخبرة 8 سنوات."
+  },
+  {
+    "id": "inf-youssef-alaoui",
+    "name": "Youssef Alaoui",
+    "phone": "+212 6 62 34 56 78",
+    "city": "Al Hoceima",
+    "neighborhood": "Centre-ville",
+    "services": ["Injections", "Prises de sang", "Soins post-opératoires"],
+    "servicesAr": ["حقن", "سحب الدم", "رعاية ما بعد الجراحة"],
+    "available247": true,
+    "description": "Infirmier disponible 24h/24 pour urgences à domicile.",
+    "descriptionAr": "ممرض متوفر 24 ساعة للطوارئ المنزلية."
+  }
+  
+]

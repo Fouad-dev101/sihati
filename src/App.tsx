@@ -3,6 +3,9 @@ import Layout from './components/Layout/Layout'
 import Home from './pages/Home'
 import Doctors from './pages/Doctors'
 import DoctorProfile from './pages/DoctorProfile'
+import Nurses from './pages/Nurses'
+import NurseProfile from './pages/NurseProfile'
+import Pharmacies from './pages/Pharmacies'
 import Specialties from './pages/Specialties'
 import About from './pages/About'
 import Contact from './pages/Contact'
@@ -14,6 +17,9 @@ export default function App() {
         <Route path="/" element={<Home />} />
         <Route path="/doctors" element={<Doctors />} />
         <Route path="/doctors/:id" element={<DoctorProfile />} />
+        <Route path="/nurses" element={<Nurses />} />
+        <Route path="/nurses/:id" element={<NurseProfile />} />
+        <Route path="/pharmacies" element={<Pharmacies />} />
         <Route path="/specialties" element={<Specialties />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />

@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Link, NavLink, useLocation } from 'react-router-dom'
 import { useI18n } from '../../i18n/I18nContext'
 import LanguageSwitcher from '../LanguageSwitcher'
+import Logo from '../Logo'
 
 export default function Navbar() {
   const { t } = useI18n()
@@ -11,7 +12,9 @@ export default function Navbar() {
   const links = [
     { to: '/', label: t.nav.home, exact: true },
     { to: '/doctors', label: t.nav.doctors },
+    { to: '/nurses', label: t.nav.nurses },
     { to: '/specialties', label: t.nav.specialties },
+    { to: '/pharmacies', label: t.nav.pharmacies },
     { to: '/about', label: t.nav.about },
     { to: '/contact', label: t.nav.contact },
   ]
@@ -24,8 +27,8 @@ export default function Navbar() {
       <div className="container">
         <div className="nav-inner">
           <Link to="/" className="brand" onClick={() => setOpen(false)}>
-            <span className="brand-mark">د</span>
-            <span>Sihati</span>
+            <Logo size={50} />
+            <span>DalilSehati</span>
           </Link>
 
           <nav className="nav-links" aria-label="Navigation principale">

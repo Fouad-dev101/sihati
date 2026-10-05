@@ -1,24 +1,28 @@
 export const fr = {
   meta: {
-    homeTitle: 'Trouvez un médecin au Maroc — Annuaire médical',
+    homeTitle: 'DalilSehati — Trouvez un professionnel de santé au Maroc',
     homeDescription:
-      "Annuaire des médecins au Maroc. Recherchez par spécialité, ville ou clinique et appelez directement.",
-    doctorsTitle: 'Médecins — Annuaire médical marocain',
-    specialtiesTitle: 'Spécialités médicales — Annuaire marocain',
-    aboutTitle: 'À propos',
-    contactTitle: 'Contact',
+      "Annuaire des médecins et infirmiers au Maroc. Recherchez par spécialité, ville ou clinique et appelez directement.",
+    doctorsTitle: 'Médecins — DalilSehati',
+    specialtiesTitle: 'Spécialités médicales — DalilSehati',
+    aboutTitle: 'À propos — DalilSehati',
+    contactTitle: 'Contact — DalilSehati',
+    nursesTitle: 'Infirmiers — DalilSehati',
+    pharmaciesTitle: 'Pharmacies de garde — DalilSehati',
   },
   nav: {
     home: 'Accueil',
     doctors: 'Médecins',
+    nurses: 'Infirmiers',
     specialties: 'Spécialités',
+    pharmacies: 'Pharmacies',
     about: 'À propos',
     contact: 'Contact',
   },
   hero: {
-    title: "Trouvez facilement le médecin qu'il vous faut.",
+    title: "Trouvez facilement le professionnel qu'il vous faut.",
     subtitle:
-      'Découvrez les médecins de votre région et accédez rapidement à leurs coordonnées.',
+      'Découvrez les médecins et infirmiers de votre région et accédez rapidement à leurs coordonnées.',
     searchPlaceholder: 'Rechercher un médecin ou une spécialité…',
   },
   stats: {
@@ -55,14 +59,36 @@ export const fr = {
     hours: 'Horaires',
     about: 'À propos',
   },
+  nurses: {
+    title: 'Infirmiers & infirmières',
+    subtitle: 'Trouvez un infirmier à domicile près de chez vous.',
+    results: (n: number) => (n === 1 ? '1 infirmier trouvé' : `${n} infirmiers trouvés`),
+    services: 'Services',
+    available247: 'Disponible 24/7',
+    emptyTitle: 'Aucun infirmier trouvé',
+    emptyBody: "Nous n'avons trouvé aucun infirmier correspondant à votre recherche.",
+    call: 'Appeler',
+    viewProfile: 'Voir le profil',
+    backToList: 'Retour aux infirmiers',
+  },
+  pharmacies: {
+    title: 'Pharmacies de garde',
+    subtitle: 'Sélectionnez votre ville pour consulter la pharmacie de garde.',
+    chooseCity: 'Choisissez une ville',
+    openService: 'Voir les pharmacies de garde',
+    externalNotice:
+      'Les pharmacies de garde sont mises à jour quotidiennement par un service externe. Vous serez redirigé vers leur site.',
+    noCity: 'Aucune ville disponible pour le moment.',
+    unavailable: 'Service indisponible pour cette ville pour le moment.',
+  },
   about: {
     title: 'À propos de ce projet',
-    body: "Cet annuaire a pour but d'aider les patients marocains à trouver rapidement un médecin près de chez eux et à le contacter directement. Nous travaillons à référencer les professionnels de santé de toutes les villes du Maroc.",
+    body: "DalilSehati a pour but d'aider les patients marocains à trouver rapidement un professionnel de santé près de chez eux et à le contacter directement. Nous référençons les médecins et infirmiers de toutes les villes du Maroc.",
     futureTitle: 'Bientôt disponible',
     futureItems: [
       'Signaler une information incorrecte',
-      'Suggérer un médecin',
-      'Vérification des médecins',
+      'Suggérer un professionnel',
+      'Vérification des professionnels',
       'Prise de rendez-vous en ligne',
       'Lien WhatsApp',
       'Google Maps',
@@ -72,10 +98,10 @@ export const fr = {
   contact: {
     title: 'Contact',
     body: 'Une question, une suggestion ou une correction ? Écrivez-nous.',
-    email: 'contact@exemple.ma',
+    email: 'contact@dalilsehati.ma',
   },
   footer: {
-    tagline: 'Annuaire médical marocain — rapide, gratuit, bilingue.',
+    tagline: 'DalilSehati — Annuaire médical marocain, rapide, gratuit, bilingue.',
     rights: 'Tous droits réservés.',
   },
   disclaimer:
